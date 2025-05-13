@@ -67,4 +67,20 @@ Create and activate a virtual environment (optional but recommended):
 2.Create and activate a virtual environment (optional but recommended):
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+3.Install dependencies:
+pip install -r requirements.txt
+4.Run the app:
+python app.py
+
+
+Sample Prompts
+. a man holding a watermelon
+
+. a fantasy castle on a floating island
+
+. a futuristic robot reading a book
+
+. a cozy cabin in a snowy forest
+
+
 
